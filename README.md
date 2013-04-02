@@ -1,7 +1,7 @@
 PyFileZapper
 ============
 
-Port of FileZapper to python, primarily as an exercise of working with that language. Includes basic functionality of the original: given specific folder(s), it will parse all subfolders and files to remove duplicates.
+Port of FileZapper (https://github.com/pdwetz/FileZapper) to python, primarily as an exercise of working with that language. Includes basic functionality of the original: given specific folder(s), it will parse all subfolders and files to remove duplicates.
 
 Features:
 * Performs a hash only for files it thinks are duplicates (same extension and file size)
